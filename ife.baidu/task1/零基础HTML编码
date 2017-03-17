@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="gb18030"/>
+    <title>零基础HTML编码</title>
+	<link type="text/css" rel="stylesheet" href="z.css"/>
+  </head>
+
+ <body> 
+ <h1>PPPeanut</h1>
+ 
+   <header>
+    <nav>  
+     <ul>
+       <li><a href="xxx" alt="123">导航链接一</a></li>
+       <li><a href="xxx" alt="123">导航链接二</a></li>
+       <li><a href="xxx" alt="123">导航链接三</a></li>
+       <li><a href="xxx" alt="123">导航链接四</a></li>
+     </ul>
+    </nav>
+   </header>
+   
+   
+   
+   
+ <div id="first">
+   
+
+ <article>
+    <h1>文章一级标题</h1>
+    <h2>文章二级标题</h2>
+    <p>文章作者&nbsp;文章发表时间</p>
+
+     <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了
+	    <br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了
+		<br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com/course/all" alt="百度前端技术学院" title="百度前端技术学院"> 这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有个粗体字</strong>这是一个很长很长的段
+        落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+        <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg"/>
+        这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，换行了
+		<br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有个粗体字</strong>这是一个很长很长的段落，这是一个很长很长的段落，<a href="" alt="fs">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+	 </p>
+ </article>
+
+
+ 
+ 
+ <article>
+       <h1>另一篇文章一级标题</h1>
+       <h2>文章二级标题</h2>
+       <p>文章作者&nbsp;文章发表时间</p>
+       <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了
+	      <br/>
+          这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了
+		  <br/>
+          这是一个很长很长的段落，这是一个很长很长的段落，<a href="fsf" alt="dfsd"> 这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有个粗体字</strong>这是一个很长很长的段
+          落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+	   </p>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg"/>
+
+        <ul>
+           <li>列表项目一</li>
+           <li>列表项目一</li>
+           <li>列表项目一</li>
+        </ul>
+</article>
+ 
+<article>
+    <h1>图片</h1>
+
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+	<figure>
+          <figcaption>好看的图片</figcaption>
+          <img src="http://tx.haiqq.com/uploads/allimg/150323/15135032M-1.jpg" width="350" height="234" />
+    </figure>
+		
+</article>
+ 
+ 
+<article>
+       <h1>最后一篇文章一级标题</h1>
+       <h2>文章二级标题</h2>
+       <p>文章作者&nbsp;文章发表时间</p>
+	   
+      <ol>
+         <li>排名1</li>
+         <li>排名2</li>
+         <li>排名3</li>
+      </ol>
+      <p>下面是一个表格，给表格接了一个border="1"好让你看出是一个表格</p>
+      <table border="1">
+	     <caption>这是一个表格</caption>
+		<thead>
+         <tr>
+          <th>表头</th>
+	      <th>表头</th>
+	      <th>表头</th>
+         </tr>
+		</thead>
+		
+		<tbody>
+            <tr>
+          <td>表内容单元格</td>
+	      <td>表内容单元格</td>
+	      <td><a href="">操作</a></td>
+         </tr>
+            <tr>
+          <td>表内容单元格</td>
+      	  <td>表内容单元格</td>
+	      <td><a href="">操作</a></</td>
+         </tr>
+            <tr>
+          <td>表内容单元格</td>
+	      <td>表内容单元格</td>
+	      <td><a href="">操作</a></td>
+         </tr>
+            <tr>
+          <td>表内容单元格</td>
+      	  <td>表内容单元格</td>
+	      <td><a href="">操作</a></td>
+         </tr>
+		</tbody>
+		
+		<tfoot>
+         <tr id="zong">
+          <td>总计</td>
+      	  <td colspan="2">1000</td>
+         </tr>
+        </tfoot>
+   </table>
+   
+ </article>
+</div>
+
+
+<aside>
+   
+   <h2>这里以后是一个侧栏的标题,侧栏注册窗口标题</h2>
+ 
+   <form action="#" method="post">
+   <div>
+   <label for="email">请输入邮箱地址:</label>
+   <input type="text" value="这是一个文本输入框" id="email" />
+   </div>
+   <p>邮箱地址请按要求格式输入</p>
+   <div>
+   <label for="pass">请输入密码:</label>
+   <input type="text" value="这是一个文本输入框" id="pass"/>
+   <label for="pass2">请重复输入密码:</label>
+   <input type="text" value="这是一个文本输入框" id="pass2"/>
+   </div>
+   <p>密码请为6-16位英文数字<p>
+   
+   <div>
+   <label for="pass">性别:</label>
+   <input type="radio" name="sex" value="男"/>
+   <label for="man">男</label>
+   <input type="radio" name="sex" value="女"/>
+   <label for="woman">女</label>
+   </div>
+   <div>
+   <label for="pass">城市:</label>
+   <select>
+   <option value="北京">北京</option> 
+   <option value="广州">广州</option>
+   </select>
+   </div>
+   <div>
+   <label for="pass">爱好:</label>
+   <input type="checkbox" value="运动"/>
+   <label for="sport">运动</label>
+   <input type="checkbox" value="艺术"/>
+   <label for="sport">艺术</label>
+   <input type="checkbox" value="科学"/>
+   <label for="sport">科学</label>
+   </div>
+   <div>
+   <label for="pass">性别:</label>
+   <textarea rows="2" cols="20">这是一个多行输入框，输入您的个人描述</textarea>
+   </div>
+   <input type="submit" value="确认提交"/>
+   </form>
+ 
+ </aside>
+ 
+ 
+ <footer>
+ <span>版权所有&copy;</span>
+ </footer>
+ 
+   </body>
+ </html>
